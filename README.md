@@ -7,4 +7,4 @@ Show to vHLTVMaker paths to idle & draw .smd files.
 Click "Make HLTV" & wait for 3-4 seconds.
 Now check your v_ model, it's updated & now HLTV :)
 
-(Tutorial)[https://youtu.be/m0_FYWE2XEw]
+[Tutorial](https://youtu.be/m0_FYWE2XEw)
